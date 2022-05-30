@@ -1,0 +1,16 @@
+body{
+text-align: center;
+}
+h1{
+font-size:40px;
+font-family: sans-serif;
+}
+#app{
+background-color: khaki;
+}
+#games{
+background-color: darkred;
+}
+#chatbot{
+background-color: darkorange;
+}
